@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [image5]: ./writeup_images/masked.png "masked"
 [image6]: ./writeup_images/lines.png "lines"
 [image7]: ./writeup_images/result.png "result"
-[image8]: ./writeup_images/result.png "result_problem"
+[image8]: ./writeup_images/result_problem.png "result_problem"
 
 ---
 
