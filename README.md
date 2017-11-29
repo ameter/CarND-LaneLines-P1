@@ -7,7 +7,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images/challenge2.jpg "input"
+[image2]: ./writeup_images/gray.png "gray"
+[image3]: ./writeup_images/gray_blur.png "gray_blur"
+[image4]: ./writeup_images/edges.png "edges"
+[image5]: ./writeup_images/masked.png "masked"
+[image6]: ./writeup_images/lines.png "lines"
+[image7]: ./writeup_images/result.png "result"
+[image8]: ./writeup_images/result.png "result_problem"
 
 ---
 
